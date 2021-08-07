@@ -1,0 +1,15 @@
+{
+  "name": "VoiceChannelAlerts",
+  "version": "1.0.0",
+  "description": "A Discord bot written in Javascript that alerts any voice channel activity to a specified text channel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SaturnKai",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.1"
+  }
+}
