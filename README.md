@@ -15,4 +15,4 @@ Program Instructions:
 Screenshot:
 -----
 
-![Screenshot 1](https://www.satial.xyz/projects/xKJp7asbgQX7Pg7Y.png)
+![Screenshot 1](https://www.satial.xyz/screenshots/xKJp7asbgQX7Pg7Y.png)
